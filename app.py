@@ -1,4 +1,4 @@
-# app.py — part of super-duper-chainsaw
+# app.py — part of flask-flock
 # Author: d28035203
 
 from flask import Flask, request, jsonify  # Import necessary modules from Flask
